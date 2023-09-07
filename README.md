@@ -1,8 +1,7 @@
 
 # **Apni-Meet** a video conference React app {[Website Link](https://apni-meet-hh9w4mtqb-adesh880082.vercel.app/)}
 
-//Image
-
+![Log-in page](https://github.com/adesh880082/Apni-Meet/assets/65299968/490c5337-544e-4855-84b6-340d70c4a4b2)
 
 ## **Project Description**
 
@@ -49,9 +48,26 @@ Firebase provides cloud service, server and real-time backend server. API for th
 Most importantly, Firebase is a NoSQL database in which data is stored in a cloud /32/33/34/35/37/. When full-fledged application is built, you have to rely on the backend service as well.
 
 Therefore, Firebase is a good choice because it saves time and allows you to focus on development. It stores the data in JSON file or JSON objects and we do not need to write any server codes, but it is ready-made API for developing and implementation of applications.
-## ***Screenshots of application***
-## User manual for **Apni-Meet**
 
+## ***Some Screenshots of application***
+***Dashboard***
+![Dashboard-Dark](https://github.com/adesh880082/Apni-Meet/assets/65299968/7107c9af-cda3-4315-b2b3-6e4579b95326)
+
+![Dashboard](https://github.com/adesh880082/Apni-Meet/assets/65299968/d0949db2-c7eb-4616-a880-19cd9831572f)
+
+***Cam-Aud off*** 
+
+![Cam-aud off](https://github.com/adesh880082/Apni-Meet/assets/65299968/53dddf3a-9433-4b9b-9b8e-bc9b31289221)
+
+***Create Meeting***
+
+![Create-Meeting](https://github.com/adesh880082/Apni-Meet/assets/65299968/23ed7bc6-fc9d-4926-b622-797ecf236aa1)
+
+***Screen Sharing***
+
+![Screen sharing](https://github.com/adesh880082/Apni-Meet/assets/65299968/6c4eeaa6-1d1a-497f-a071-4cc62947ba46)
+
+## User manual for ***Apni-Meet***
 We can start our APNI-MEET by login with google account from login page which will redirect us to the dashboard after successful login .
 
 From dashboard we can go on the create meeting page by clicking on create meeting card which will redirect us on create meeting page where we can click on one on one meeting or video conference to create the meet as per our requirement.
