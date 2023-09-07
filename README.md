@@ -51,7 +51,7 @@ Therefore, Firebase is a good choice because it saves time and allows you to foc
 
 ## ***Some Screenshots of application***
 ***Dashboard***
-## User manual for **Apni-Meet**![Dashboard-Dark](https://github.com/adesh880082/Apni-Meet/assets/65299968/7107c9af-cda3-4315-b2b3-6e4579b95326)
+![Dashboard-Dark](https://github.com/adesh880082/Apni-Meet/assets/65299968/7107c9af-cda3-4315-b2b3-6e4579b95326)
 
 ![Dashboard](https://github.com/adesh880082/Apni-Meet/assets/65299968/d0949db2-c7eb-4616-a880-19cd9831572f)
 
@@ -67,7 +67,7 @@ Therefore, Firebase is a good choice because it saves time and allows you to foc
 
 ![Screen sharing](https://github.com/adesh880082/Apni-Meet/assets/65299968/6c4eeaa6-1d1a-497f-a071-4cc62947ba46)
 
-## ***User Manual***
+## User manual for ***Apni-Meet***
 We can start our APNI-MEET by login with google account from login page which will redirect us to the dashboard after successful login .
 
 From dashboard we can go on the create meeting page by clicking on create meeting card which will redirect us on create meeting page where we can click on one on one meeting or video conference to create the meet as per our requirement.
