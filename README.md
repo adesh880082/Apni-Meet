@@ -1,5 +1,5 @@
 
-# **Apni-Meet** a video conference React app {[Website Link](https://apni-meet-hh9w4mtqb-adesh880082.vercel.app/)}
+# **Apni-Meet** a video conference React app {[Website Link](https://adesh880082.github.io/Apni-Meet/)}
 
 ![Log-in page](https://github.com/adesh880082/Apni-Meet/assets/65299968/490c5337-544e-4855-84b6-340d70c4a4b2)
 
